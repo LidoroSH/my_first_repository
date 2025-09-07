@@ -1,2 +1,2 @@
 # my_first_repository
-this is my first repository
+I DELETE ONE LINE and i want to see how it acts while i'm pushing it back to the remote...
