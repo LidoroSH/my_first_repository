@@ -1,2 +1,1 @@
-# my_first_repository
-I DELETE ONE LINE and i want to see how it acts while i'm pushing it back to the remote...
+this is change that done locally
